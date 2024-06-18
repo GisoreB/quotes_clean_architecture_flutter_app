@@ -1,4 +1,4 @@
-![Screenshot 2024-06-18 230420](https://github.com/GisoreB/quotes_clean_architecture_flutter_app/assets/144854877/0011afa9-7a08-4ee9-baf0-b80301014b68)# quotes_clean_architecture_flutter_app
+# quotes_clean_architecture_flutter_app
 
 A flutter clean architecture quotes app project.
 
