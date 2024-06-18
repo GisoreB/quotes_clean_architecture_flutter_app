@@ -1,16 +1,11 @@
-# quotes_clean_architecture_flutter_app
+![Screenshot 2024-06-18 230420](https://github.com/GisoreB/quotes_clean_architecture_flutter_app/assets/144854877/0011afa9-7a08-4ee9-baf0-b80301014b68)# quotes_clean_architecture_flutter_app
 
 A flutter clean architecture quotes app project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-06-18 230148](https://github.com/GisoreB/quotes_clean_architecture_flutter_app/assets/144854877/bb620606-d290-46d8-99c2-9aa6c5ba12aa)
+![Screenshot 2024-06-18 230746](https://github.com/GisoreB/quotes_clean_architecture_flutter_app/assets/144854877/1e0b3fe3-f75e-4723-8072-4541adac3725)
+![Screenshot 2024-06-18 230449](https://github.com/GisoreB/quotes_clean_architecture_flutter_app/assets/144854877/adcefc90-82ee-4f6f-84e1-03cb0fd20222)
+![Screenshot 2024-06-18 230202](https://github.com/GisoreB/quotes_clean_architecture_flutter_app/assets/144854877/473fa584-0d5a-4d46-b683-e4a5f924f775)
